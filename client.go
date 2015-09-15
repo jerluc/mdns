@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hashicorp/go.net/ipv4"
-	"github.com/hashicorp/go.net/ipv6"
+	"github.com/andrewzeneski/go.net/ipv4"
+	"github.com/andrewzeneski/go.net/ipv6"
 	"github.com/miekg/dns"
 )
 
